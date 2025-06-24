@@ -8,6 +8,19 @@ The goal of this project is to:
 - Demonstrate **practical understanding** of Microsoft Azure services 
 - Build hands-on experience across **compute, networking, storage, identity, security, and cost management**.
 
+## Scenario
+
+> You’ve recently joined a fictional company called **CloudFusion Ltd.**, a startup looking to migrate some of its operations to Microsoft Azure. As their new **Cloud Associate**, your manager assigns you a **proof-of-concept project** to demonstrate your knowledge of Azure services before the full cloud migration begins.
+>
+> Your goal is to build out a sandbox Azure environment that:
+> - Shows how key Azure services work
+> - Provides examples of secure resource deployment
+> - Tracks cost and performance
+> - Highlights cloud capabilities like storage hosting, IAM, and even basic AI
+>
+> You are tasked with completing 8 labs that mirror real-world responsibilities and document each clearly for internal review.
+
+
 ## Lab Coverage
 
 | Lab No. | Title                                      | Concepts Covered                                         |
